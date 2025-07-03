@@ -29,29 +29,29 @@
 
 ## 🛠 Build System: `pybuildw.bat`
 
-Your kawaii build script is as efficient as it is adorable! Here's what it does:
+This build script is clean, efficient, and expressive. Here's what it does:
 
 | Step 🛠️                     | What It Does                                                                 |
 |-----------------------------|------------------------------------------------------------------------------|
 | 🐍 Activate venv            | Ensures isolated environment for clean builds.                              |
 | 📦 Install PyInstaller      | Automatically installs the required build tool.                             |
 | 🧪 Compile to `.exe`        | Uses `--onefile --noconsole` for a sleek, silent binary.                    |
-| 💖 ASCII Art Celebration    | Because every successful build deserves a little anime magic! ✨             |
+| 🎉 ASCII Art Celebration    | Adds a fun visual touch after a successful build.                           |
 
 ---
 
-## 🧸 Kawaii Touches
+## 🧾 Highlights
 
 - 💚 Terminal colors for each build stage
-- 🖼️ Adorable ASCII art at the end of the build
-- 🧼 Clean console output (no pip spam!)
-- 🐾 Lightweight and portable — fits in your pocket (well, almost)
+- 🖼️ ASCII art at the end of the build
+- 🧼 Clean console output (no pip spam)
+- 🐾 Lightweight and portable — fits in your toolkit with ease
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — free to use, modify, and distribute, as long as you give credit to the original author: **Uladzislau** 💖
+This project is licensed under the **MIT License** — free to use, modify, and distribute, as long as you give credit to the original author: **Namyn99** 💖
 
 ---
 
